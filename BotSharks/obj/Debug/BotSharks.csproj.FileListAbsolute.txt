@@ -1,0 +1,34 @@
+C:\Users\Lalinux\source\repos\BotSharks\BotSharks\obj\Debug\BotSharks.csprojAssemblyReference.cache
+C:\Users\Lalinux\source\repos\BotSharks\BotSharks\obj\Debug\BotSharks.Form1.resources
+C:\Users\Lalinux\source\repos\BotSharks\BotSharks\obj\Debug\BotSharks.Properties.Resources.resources
+C:\Users\Lalinux\source\repos\BotSharks\BotSharks\obj\Debug\BotSharks.csproj.GenerateResource.cache
+C:\Users\Lalinux\source\repos\BotSharks\BotSharks\obj\Debug\BotSharks.csproj.CoreCompileInputs.cache
+C:\Users\Lalinux\source\repos\BotSharks\BotSharks\bin\Debug\BotSharks.exe.config
+C:\Users\Lalinux\source\repos\BotSharks\BotSharks\bin\Debug\BotSharks.exe
+C:\Users\Lalinux\source\repos\BotSharks\BotSharks\bin\Debug\BotSharks.pdb
+C:\Users\Lalinux\source\repos\BotSharks\BotSharks\bin\Debug\WebDriver.dll
+C:\Users\Lalinux\source\repos\BotSharks\BotSharks\bin\Debug\WebDriver.Support.dll
+C:\Users\Lalinux\source\repos\BotSharks\BotSharks\bin\Debug\WebDriver.xml
+C:\Users\Lalinux\source\repos\BotSharks\BotSharks\bin\Debug\WebDriver.Support.xml
+C:\Users\Lalinux\source\repos\BotSharks\BotSharks\obj\Debug\BotSharks.csproj.CopyComplete
+C:\Users\Lalinux\source\repos\BotSharks\BotSharks\obj\Debug\BotSharks.exe
+C:\Users\Lalinux\source\repos\BotSharks\BotSharks\obj\Debug\BotSharks.pdb
+C:\Users\Lalinux\source\repos\BotSharks\BotSharks\bin\Debug\SpreadsheetLight.dll
+C:\Users\Lalinux\source\repos\BotSharks\BotSharks\bin\Debug\SpreadsheetLight.xml
+D:\En C\Usuario\source\repos\BotSharks\BotSharks\bin\Debug\selenium-manager\linux\selenium-manager
+D:\En C\Usuario\source\repos\BotSharks\BotSharks\bin\Debug\selenium-manager\macos\selenium-manager
+D:\En C\Usuario\source\repos\BotSharks\BotSharks\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\En C\Usuario\source\repos\BotSharks\BotSharks\bin\Debug\BotSharks.exe.config
+D:\En C\Usuario\source\repos\BotSharks\BotSharks\bin\Debug\BotSharks.exe
+D:\En C\Usuario\source\repos\BotSharks\BotSharks\bin\Debug\BotSharks.pdb
+D:\En C\Usuario\source\repos\BotSharks\BotSharks\bin\Debug\SpreadsheetLight.dll
+D:\En C\Usuario\source\repos\BotSharks\BotSharks\bin\Debug\WebDriver.dll
+D:\En C\Usuario\source\repos\BotSharks\BotSharks\bin\Debug\WebDriver.Support.dll
+D:\En C\Usuario\source\repos\BotSharks\BotSharks\bin\Debug\SpreadsheetLight.xml
+D:\En C\Usuario\source\repos\BotSharks\BotSharks\obj\Debug\BotSharks.Form1.resources
+D:\En C\Usuario\source\repos\BotSharks\BotSharks\obj\Debug\BotSharks.Properties.Resources.resources
+D:\En C\Usuario\source\repos\BotSharks\BotSharks\obj\Debug\BotSharks.csproj.GenerateResource.cache
+D:\En C\Usuario\source\repos\BotSharks\BotSharks\obj\Debug\BotSharks.csproj.CoreCompileInputs.cache
+D:\En C\Usuario\source\repos\BotSharks\BotSharks\obj\Debug\BotSharks.csproj.CopyComplete
+D:\En C\Usuario\source\repos\BotSharks\BotSharks\obj\Debug\BotSharks.exe
+D:\En C\Usuario\source\repos\BotSharks\BotSharks\obj\Debug\BotSharks.pdb
