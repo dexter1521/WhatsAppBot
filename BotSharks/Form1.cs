@@ -128,7 +128,7 @@ namespace BotSharks
         {
             if (txtMensaje.Text.Length <= 0)
                 return;
-            for (int percentProgress = 0; percentProgress <= dataGridView.RowCount; ++percentProgress)
+            for (int percentProgress = 0; percentProgress < dataGridView.RowCount; ++percentProgress)
             {
                 if (Mdl_JAAS.bw_jaas.CancellationPending)
                 {
